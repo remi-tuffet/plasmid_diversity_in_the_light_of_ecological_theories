@@ -1,7 +1,7 @@
 # plasmid_diversity_in_the_light_of_ecological_theories
 This repository contain all data and codes necessary to reproduce the figures and supplementary figures of the paper "Plasmid diversity and dynamics in the light of ecological theories". 
 
-**Content:**
+**Code content:**
 
 **Main figures**
 
@@ -23,7 +23,7 @@ This repository contain all data and codes necessary to reproduce the figures an
 
 **Supplementary video:**
 
-
+*unified_model_video.ipynb* is a python notebook with the code for the supplementary video of unified model
 
 **Runing simulations:**
 
@@ -32,3 +32,32 @@ This repository contain all data and codes necessary to reproduce the figures an
 *neutral_model_simulations.ipynb* is a python notebook with the code to run the simulations of the stochastic neutral model (used in Fig. 3 and S2)
 
 *unified_model_simulations.ipynb* is a python notebook with the code to run the simulations of the stochastic unified model (used in Fig. 4 and S3)
+
+**Data content:**
+
+**Observed data:**
+
+*PTU_count.tsv* is a file containing the data to produce Fig. 1A
+
+*birds_wyoming.csv* is a file containing the data to produce Fig. 1B
+
+*BCI.csv* is a file containing the data to produce Fig. 1C
+
+*Plasmid_size_mobility_PTU_coli.tsv* is a file containing the data to produce Fig. 1D
+
+*bird_data.csv* is a file containing the data to produce Fig. 1E
+
+*BCI_traits.txt* is a file containing the data to produce Fig. 1F
+
+**Simulated data:**
+
+*figure_2_fluctuating_stress* is a folder containing all the results simulations to produce Fig. 2D
+
+*figure_S1_plasmid1* is a folder containing all the results simulations to produce Fig. S1A (p_res)
+
+*figure_S1_plasmid1* is a folder containing all the results simulations to produce Fig. S1A (p_sens)
+
+*neutral_model_sensibility_analysis* is a folder containing all the results simulations to produce Fig. 3C-D-E and Fig. S2
+
+*unified_model_video* is a folder containing all the images to produce the video of the dynamics of unified model
+
