@@ -61,3 +61,5 @@ This repository contain all data and codes necessary to reproduce the figures an
 
 *unified_model_video* is a folder containing all the images to produce the video of the dynamics of unified model
 
+*unified_model_video.avi* is the video file of the temporal dynamics simulated with the unified model
+
